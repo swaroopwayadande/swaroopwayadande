@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @swaroopwayadande
+- 👀 I’m interested in linux and FOSS.
+- 🌱 I’m currently learning react.
+- 📫 How to reach me , email:- swaroopwayadande@gmail.com, swaroopwayadande@outlook.com
