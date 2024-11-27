@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @swaroopwayadande
 - 👀 I’m interested in linux and FOSS.
 - 🌱 I’m currently learning react.
-- 📫 How to reach me , email:- swaroopwayadande@gmail.com, swaroopwayadande@outlook.com
+- WEB Technologies :- HTML, CSS, JS.
+- Programming skills:- C/C++, Python
+-  📫 How to reach me , email:- swaroopwayadande@gmail.com, swaroopwayadande@outlook.com
+- Resume:- https://drive.google.com/drive/folders/1ybRbpzXE1sELn15dGlkm4qGos2j9WNhd?usp=sharing
