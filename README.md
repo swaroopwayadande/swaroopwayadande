@@ -39,6 +39,14 @@
 
 <p align="center">
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=swaroopwayadande&countColor=%23263759" alt="Profile views">
+
+  <iframe
+        src="https://assets.pinterest.com/ext/embed.html?id=417005246771217743"
+        height="463"
+        width="345"
+        frameborder="0"
+        scrolling="no">
+      </iframe>
 </p>
 
 
