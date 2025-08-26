@@ -35,9 +35,6 @@
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=swaroopwayadande&icon=0&color=0)](https://visitcount.itsvg.in)
-<p align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=swaroopwayadande&countColor=%23263759" alt="Profile views">
-</p>
+<p align="center"> <a href="https://visitcount.itsvg.in"> <img src="https://visitcount.itsvg.in/api?id=swaroopwayadande&icon=0&color=0" alt="Visitor count" style="display:inline-block;margin:4px;"/> </a> <img src="https://api.visitorbadge.io/api/VisitorHit?user=swaroopwayadande&countColor=%23263759" alt="Profile views" style="display:inline-block;margin:4px;"/> </p>
 
 
