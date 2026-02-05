@@ -40,7 +40,6 @@
 
 ---
 
-## 🤝 Open Source & Pull Requests
 
 <p align="center">
   <img src="https://metrics.lecoq.io/swaroopwayadande?template=classic&config.timezone=Asia%2FKolkata" />
