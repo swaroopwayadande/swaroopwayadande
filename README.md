@@ -46,11 +46,7 @@
   <img src="https://metrics.lecoq.io/swaroopwayadande?template=classic&config.timezone=Asia%2FKolkata" />
 </p>
 
-> This section automatically reflects:
-> - Pull Requests merged
-> - Issues opened and closed
-> - Commits across repositories
-> - Contribution activity
+
 
 ---
 
